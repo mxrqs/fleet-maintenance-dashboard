@@ -83,22 +83,6 @@ O dashboard permite acompanhar indicadores operacionais importantes, como:
 
 ---
 
-## 🖼️ Imagens do Dashboard
-
-### Visão Geral
-
-![Dashboard Visão Geral](IMG/1.png)
-
-### Análise de Veículos e Categorias
-
-![Dashboard Veículos](IMG/2.png)
-
-### Tabela de Serviços
-
-![Tabela de Serviços](IMG/3.png)
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - SQL
